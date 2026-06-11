@@ -1,0 +1,9 @@
+[package]
+name = "state-machine"
+version = "0.1.0"
+description = "A Rust library for State Machine"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/state-machine"
+edition = "2021"
+
+[dependencies]
